@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "3722c0dea4bdddbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e99014fcd9017582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ea55cc30fcde250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K8s/Prometheus adapter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a456171cfb90f260",
+    "type": "split",
+    "children": [
+      {
+        "id": "440aef5361c862ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe4ca899935d7c16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f997ae59b2b86e77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b8de15aa9bb9582",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.51103591918945
+  },
+  "right": {
+    "id": "3ae6ee7dd3bc4ae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f01df9ab822ef75b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d32bec7b81c95679",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "K8s/Prometheus adapter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86b66a9dace709c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "K8s/Prometheus adapter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0b8e2406edbd6a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7832d20d29262e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "K8s/Prometheus adapter.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0ea55cc30fcde250",
+  "lastOpenFiles": [
+    "K8s/Prometheus adapter.md",
+    "Untitled 1.md",
+    "WordPress/Hosting.md",
+    "SaritasaInfrav3/AWS.md",
+    "Pasted image 20240624201636.png",
+    "Untitled.md",
+    "SaritasaInfrav3",
+    "Pasted image 20240625170957.png",
+    "Pasted image 20240625030126.png",
+    "Pasted image 20240625025127.png",
+    "Pasted image 20240625024626.png",
+    "Pasted image 20240625022933.png",
+    "Pasted image 20240625022501.png",
+    "Pasted image 20240625021718.png",
+    "Pasted image 20240625021702.png",
+    "Pasted image 20240625021606.png",
+    "Twillio.md",
+    "Кодировки.md",
+    "WordPress",
+    "Kubernetes/Karpenter.md",
+    "AWS/IAM/IAM.md",
+    "AWS/IAM",
+    "Kubernetes",
+    "PVC.md",
+    "AWS/S3.md",
+    "Apple/MacOS/Особенности CI.md",
+    "Untitled",
+    "Network/MTU.md",
+    "Misha cool.md",
+    "K8s/wireguard.md",
+    "Мой опыт/Здравый смысл.md",
+    "K8s",
+    "AWS/WAF/DDOS protection on ALB.md",
+    "AWS/WAF",
+    "AWS/ECS/TaskPlacement.md",
+    "Network",
+    "AWS/ECS",
+    "AWS",
+    "2024-02-23.md",
+    "Юсаммит.md",
+    "Databases/Postgress/Tips.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Firebase/API key.md",
+    "Storage/IOPS/IOPS.md",
+    "Apple/MacOS/APFS (файловая система).md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
