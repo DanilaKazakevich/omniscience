@@ -1,31 +1,31 @@
 {
   "main": {
-    "id": "3722c0dea4bdddbb",
+    "id": "f230eb526cfd9264",
     "type": "split",
     "children": [
       {
-        "id": "c286a689bb400439",
+        "id": "54b8a848ee151506",
         "type": "tabs",
         "children": [
           {
-            "id": "f3411fc07c5fed94",
+            "id": "208beac2f5bbca52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/MTU.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9f6fee445cced8a1",
+            "id": "9b81e27cb84100ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кодировки.md",
+                "file": "Отношения.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,20 +33,34 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "0ffdda8baf180ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f92610205a638832",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a456171cfb90f260",
+    "id": "099297293d8e0b09",
     "type": "split",
     "children": [
       {
-        "id": "440aef5361c862ef",
+        "id": "d221e662291ae452",
         "type": "tabs",
         "children": [
           {
-            "id": "fe4ca899935d7c16",
+            "id": "ab3489c6f1e0bf3b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +70,7 @@
             }
           },
           {
-            "id": "f997ae59b2b86e77",
+            "id": "f9e5e55de55ef806",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +85,7 @@
             }
           },
           {
-            "id": "3b8de15aa9bb9582",
+            "id": "e7fa52f46d7332b4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +99,20 @@
     "width": 300
   },
   "right": {
-    "id": "3ae6ee7dd3bc4ae5",
+    "id": "773713dcf9cd97ac",
     "type": "split",
     "children": [
       {
-        "id": "f01df9ab822ef75b",
+        "id": "a84b5b3ac49f2bfd",
         "type": "tabs",
         "children": [
           {
-            "id": "d32bec7b81c95679",
+            "id": "ed7597269937f730",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Кодировки.md",
+                "file": "Отношения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +124,19 @@
             }
           },
           {
-            "id": "86b66a9dace709c4",
+            "id": "886d3170302d8884",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кодировки.md",
+                "file": "Отношения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f0b8e2406edbd6a7",
+            "id": "b994bd88affa7ed9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +147,12 @@
             }
           },
           {
-            "id": "d7832d20d29262e1",
+            "id": "18484b5363d006e8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Кодировки.md"
+                "file": "Отношения.md"
               }
             }
           }
@@ -159,39 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f6fee445cced8a1",
+  "active": "9b81e27cb84100ea",
   "lastOpenFiles": [
-    "Pasted image 20240318132952.png",
-    "Network/MTU.md",
-    "Кодировки.md",
-    "AWS/ECS/TaskPlacement.md",
-    "Network",
-    "Pasted image 20240225195135.png",
-    "AWS/ECS",
-    "AWS",
-    "2024-02-23.md",
-    "Pasted image 20240220145401.png",
-    "Юсаммит.md",
-    "Databases/Postgress/Tips.md",
-    "Pasted image 20240220150255.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Firebase/API key.md",
-    "Firebase",
-    "Мой опыт/Здравый смысл.md",
-    "Pasted image 20240220145253.png",
-    "Pasted image 20240220145333.png",
-    "Pasted image 20240220145250.png",
-    "Storage/IOPS/IOPS.md",
-    "Мой опыт",
-    "Storage/IOPS",
-    "Storage",
-    "Apple/MacOS/Особенности CI.md",
-    "Databases/Postgress",
-    "Databases",
-    "Apple/MacOS/APFS (файловая система).md",
-    "Apple/MacOS",
     "Welcome.md",
-    "create a link.md"
+    "Отношения.md"
   ]
 }
