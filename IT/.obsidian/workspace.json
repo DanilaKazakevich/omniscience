@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "9f6fee445cced8a1",
+            "id": "a5079e262f668f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Кодировки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b359c211643ef7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misha cool.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,14 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f6fee445cced8a1",
+  "active": "a5079e262f668f2f",
   "lastOpenFiles": [
-    "Pasted image 20240318132952.png",
-    "Network/MTU.md",
+    "Misha cool.md",
     "Кодировки.md",
+    "Pasted image 20240318132952.png",
+    "Pasted image 20240225195135.png",
+    "Network/MTU.md",
     "AWS/ECS/TaskPlacement.md",
     "Network",
-    "Pasted image 20240225195135.png",
     "AWS/ECS",
     "AWS",
     "2024-02-23.md",
