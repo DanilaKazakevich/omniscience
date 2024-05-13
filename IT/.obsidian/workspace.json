@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/MTU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f6fee445cced8a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Кодировки.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,14 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f6fee445cced8a1",
+  "active": "f3411fc07c5fed94",
   "lastOpenFiles": [
-    "Pasted image 20240318132952.png",
-    "Network/MTU.md",
+    "PVC.md",
     "Кодировки.md",
+    "Pasted image 20240225195135.png",
+    "Pasted image 20240318132952.png",
+    "Pasted image 20240426214301.png",
+    "Pasted image 20240426215101.png",
+    "Pasted image 20240426215549.png",
+    "Pasted image 20240426215607.png",
+    "Pasted image 20240502021648.png",
+    "Pasted image 20240426214026.png",
+    "AWS/S3.md",
+    "Apple/MacOS/Особенности CI.md",
+    "Untitled",
+    "Network/MTU.md",
+    "Misha cool.md",
+    "K8s/wireguard.md",
+    "Мой опыт/Здравый смысл.md",
+    "K8s",
+    "AWS/WAF/DDOS protection on ALB.md",
+    "AWS/WAF",
     "AWS/ECS/TaskPlacement.md",
     "Network",
-    "Pasted image 20240225195135.png",
     "AWS/ECS",
     "AWS",
     "2024-02-23.md",
@@ -178,19 +181,11 @@
     "Untitled 1.canvas",
     "Firebase/API key.md",
     "Firebase",
-    "Мой опыт/Здравый смысл.md",
-    "Pasted image 20240220145253.png",
-    "Pasted image 20240220145333.png",
-    "Pasted image 20240220145250.png",
     "Storage/IOPS/IOPS.md",
     "Мой опыт",
     "Storage/IOPS",
     "Storage",
-    "Apple/MacOS/Особенности CI.md",
-    "Databases/Postgress",
-    "Databases",
     "Apple/MacOS/APFS (файловая система).md",
-    "Apple/MacOS",
     "Welcome.md",
     "create a link.md"
   ]
