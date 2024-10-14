@@ -1,7 +1,7 @@
 
 Вопросы active probing???
 
-
+VLESS имеет гораздо более широкие возможности: Например, он может работать через CDN (Content Delivery Networks) благодаря транспорту WS, gRPC и HTTPUpgrade. ????
 
 в новых условиях надо сразу быть готовыми к отказу от интеграшек.  
 интеграшкой я называю удобно-простую систему с веб мордой, в которой настраивается куча разных функций.  
@@ -38,5 +38,30 @@ A split tunnel SSL VPN is a way better option - entirely self hosted and self co
 
 Nice technology. I wonder if this protocol will be abused. When a PC is behind NAT , a home router uses Port-NAT. A statefull firewall "expects" data on the inbound port. Since the TwinGate client installed on a PC behind a NAT. It is basicly a backdoor relayer (SOCK5 proxy) in your LAN environment. Why? External users can connect to other devices in your LAN. Oh well, it is a cool tech, but I hope IDS/IPS firewall can detect this kind of traffic in business environment. A employee can easily make backdoors in your network if you are not carefull. Thanks for the clip and explanation.
 
+https://www.twingate.com/docs/how-twingate-works
 I think the bit about the client and connector talking directly to one another is technically incorrect. While the relay knows which IPs and ports the client and connector use (after NAT), you cannot have them connect to each other. That is because the NAT routers will only accept packets originating from the relay for those ports. So, in order to connect client and connector, the traffic has to be routed through the relay as a proxy. And while that traffic is probably encrypted, all of this is controlled by non-open software provided by Twingate. Thus, you essentially have to trust that Twingate is a. "not evil" and b. "stays secure". Also, the ressources that are being exposed are controlled via a cloud instance ("controller") and also, who may connect to them. You essentially delegate control over what can be accessed to Twingate, putting a remote control to your network in their hands (aka "firewall piercing"). Surely, nothing to worry about, huh?
 
+https://habr.com/ru/articles/844760/
+https://github.com/Jigsaw-Code/outline-ss-server/issues/108
+https://docs.amnezia.org/documentation/amnezia-wg/
+
+https://github.com/openwrt-xiaomi/awg-openwrt/wiki/AmneziaWG-installing#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-amneziawg-%D0%B8-%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D1%85-%D0%BD%D1%83%D0%B6%D0%BD%D1%8B%D1%85-%D1%83%D1%82%D0%B8%D0%BB%D0%B8%D1%82-%D0%BD%D0%B0-vds-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5
+https://github.com/openwrt-xiaomi/awg-openwrt/wiki/AmneziaWG-installing#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-amneziawg-%D0%BD%D0%B0-openwrt-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B5
+http://web.archive.org/web/20240901091127/https://habr.com/ru/articles/835228/
+http://web.archive.org/web/20240831134917/https://habr.com/ru/articles/776256/
+https://habr.com/ru/articles/687512/
+https://habr.com/ru/articles/770400/
+https://habr.com/ru/articles/727868/
+https://habr.com/ru/articles/731608/
+https://habr.com/ru/articles/776256/
+https://habr.com/ru/articles/774838/
+https://habr.com/ru/articles/777656/
+https://habr.com/ru/articles/728836/
+https://habr.com/ru/articles/774838/
+
+
+https://habr.com/ru/articles/839656/
+
+https://habr.com/ru/articles/791724/
+https://github.com/XTLS/Xray-core/discussions/3518
+https://github.com/XTLS/Xray-core
