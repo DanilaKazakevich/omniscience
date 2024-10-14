@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "424316e97f4b0500",
+        "id": "6124bf36d1ba5e18",
         "type": "tabs",
         "children": [
           {
-            "id": "0c925512fc8f394a",
+            "id": "e16717313be34007",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Квартира.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Квартира.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Квартира.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Квартира.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c925512fc8f394a",
+  "active": "ab3489c6f1e0bf3b",
   "lastOpenFiles": [
-    "Отношения.md",
     "Квартира.md",
+    "Отношения.md",
     "Welcome.md"
   ]
 }

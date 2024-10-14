@@ -416,3 +416,10 @@ histogram_quantile(0.50, sum(rate(nginx_ingress_controller_request_duration_seco
 E0821 16:02:13.880136       1 provider.go:198] unable to list matching resource names: ingresses.networking.k8s.io is forbidden: User "system:serviceaccount:prometheus:prometheus-adapter" cannot list resource "ingresses" in API group "networking.k8s.io" in the namespace "staging"
 
 ```
+
+
+50s         Normal    SuccessfulRescale   horizontalpodautoscaler/staging-backend-hpa-v2   New size: 3; reason: Service metric nginx_ingress_controller_request_duration_seconds_p50 above target
+
+
+https://github.com/kubernetes/kubernetes/issues/78761#issuecomment-1075814510
+
